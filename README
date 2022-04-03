@@ -1,16 +1,20 @@
-# Overview of Bike Sharing Analysis
+Overview of Bike Sharing Analysis
 
-Data analysis was performed on a dataset from a bike sharing business that is successful and running in New York City.  This analysis is to determine if it  
-is a viable project for the city of Des Moines,IA.  Tableau is the tool that was used for this analysis to assist in displaying the results.  Several 
+Data analysis was performed on a dataset from a bike sharing business that is successful and running in New York City.  This analysis is to determine if it  is a viable project for the city of Des Moines,IA.  Tableau is the tool that was used for this analysis to assist in displaying the results.  Several 
 worksheets were created and a story to illustrate and share results and data.  
 
 
-## Results
+# Results
 
 The complete story is listed below as a link in Tableau Public.  The link shares the story created with several worksheets to confirm the success of the
 ride sharing business in New York City.  
 
 [link to dashboard](https://public.tableau.com/views/CitibikeChallenge_16489112382720/Challenge-Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+The following charts were produced from the dataset to assist with the business case for Des Moines, IA with this bike ride sharing concept. 
+
+
 
 
 In the Checkout Times for Users image, it is apparent that the longer the period of time a customer has checked out a bike, the amount of bikes 
@@ -35,7 +39,7 @@ summer weather helps keep the bikes busy.
 
 
 
-## Summary
+Summary
 The results of this analysis indicate that a bike ride sharing concept is a popular venture that could be very profitable in Des Moines, IA.  I would also run 
 additional visualizations and analysis.  One other test I would perform would be to compare the age of the customer to the type of customer so that it might
 be found that the younger generation are the subscribers. If the majority of subscribers were younger than it would ideal for this business concept because
