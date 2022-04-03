@@ -13,7 +13,25 @@ ride sharing business in New York City.
 [link to dashboard](https://public.tableau.com/views/CitibikeChallenge_16489112382720/Challenge-Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
+In the Checkout Times for Users image, it is apparent that the longer the period of time a customer has checked out a bike, the amount of bikes 
+sharply increases.  At the end of a two hour mark, the utilization peaks.  
 
+
+Within the Trips by Weekday per Hour image, the illustration shows that the peak times for renting a bike are around the 8 am hour and close to the end of 
+a workday at 5 pm, Monday through Friday.  Weekends appear to have a constant flow of users between 10 am and 6 pm.  
+
+In the Trips by Gender heatmap, there is a strong use of bikes by Males vs Females.  And it would seem the males are using these bikes during the already 
+discovered peak hours of 8 am and 5 pm, Monday through Friday.  
+
+User Trips by Gender by Weekday heatmap shares the data that Males utilize the bike service most and they do so between Monday through Friday.  In this
+heatmap, it is also evident that these male customers are more likely to be subscribers.  
+
+
+This pie chart, titled 'Customers' is a great display that shows the majority of customers are subscribers.  1.9 million, of the 2.3 million that use the
+bike sharing service are subscribers.  
+
+August Peak Hours is a horizontal bar chart that shares the information that there are several users of the bikes within the month of August.  The 
+summer weather helps keep the bikes busy.  
 
 
 
